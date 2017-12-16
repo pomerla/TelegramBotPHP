@@ -5,7 +5,7 @@
 
 [![Total Downloads](https://poser.pugx.org/eleirbag89/telegrambotphp/downloads)](https://packagist.org/packages/eleirbag89/telegrambotphp)
 [![License](https://poser.pugx.org/eleirbag89/telegrambotphp/license)](https://packagist.org/packages/eleirbag89/telegrambotphp)
-[![StyleCI](https://styleci.io/repos/38492095/shield?branch=master)](https://styleci.io/repos/112378037)
+[![StyleCI](https://styleci.io/repos/112378037/shield?branch=master)](https://styleci.io/repos/112378037)
 
 > A very simple PHP [Telegram Bot API](https://core.telegram.org/bots).    
 > Compliant with the August 23, 2017 Telegram Bot API update.
